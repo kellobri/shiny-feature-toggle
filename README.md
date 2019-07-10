@@ -21,6 +21,8 @@ Presentation: https://speakerdeck.com/kellobri/art-of-the-feature-toggle
 
 ![notify-me](imgs/request-collab-solution.png)
 
+_Watch a demo of this solution on [YouTube](https://youtu.be/SDk9Suaj0kc)_
+
 ### Application: `Custom-Visitor-UI`
 
 - Problem: How can I expose a custom landing page to anonymous visitors and users who have been logged out of the server?
@@ -29,6 +31,8 @@ Presentation: https://speakerdeck.com/kellobri/art-of-the-feature-toggle
   - Provide instructions or action buttons for visitors who want to request user accounts
 
 ![custom-langing](imgs/custom-landing-solution.png)
+
+_Watch a demo of this solution on [YouTube](https://youtu.be/YcmOsPLvTMA)_
 
 ## Connect with RStudio Solutions Engineering
 
