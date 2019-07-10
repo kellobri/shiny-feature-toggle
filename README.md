@@ -14,9 +14,19 @@ Presentation: https://speakerdeck.com/kellobri/art-of-the-feature-toggle
 
 ### Application: `Notify-Me`
 
+- Problem: How can someone request collaborator access to my Shiny content on RStudio Connect?
+- Solution: 
+  - Feature toggle: expose an action button to users who aren't part of my collaboration group
+  - Action button: trigger a Slack App (Incoming Webhook) to send me a notification
+
 ![notify-me](imgs/request-collab-solution.png)
 
 ### Application: `Custom-Visitor-UI`
+
+- Problem: How can I expose a custom landing page to anonymous visitors and users who have been logged out of the server?
+- Solution:
+  - Feature toggle: expose a simplified (redacted) version of the UI
+  - Provide instructions or action buttons for visitors who want to request user accounts
 
 ![custom-langing](imgs/custom-landing-solution.png)
 
