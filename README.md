@@ -2,5 +2,10 @@
 
 Presentation: https://speakerdeck.com/kellobri/art-of-the-feature-toggle
 
-- Notify-Me
-- Custom-Visitor-UI
+### Application: `Notify-Me`
+
+![notify-me][imgs/request-collab-solution.png]
+
+### Application: `Custom-Visitor-UI`
+
+![custom-langing][imgs/custom-landing-solution.png]
